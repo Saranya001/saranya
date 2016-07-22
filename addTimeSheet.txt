@@ -7,3 +7,7 @@ String employeeId
 Date currentDate
 Time inTime
 Time outTime
+
+
+
+Add time record of an employee in daywise
