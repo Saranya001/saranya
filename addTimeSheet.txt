@@ -10,4 +10,4 @@ Time outTime
 
 
 
-Add time record of an employee in daywise
+Add time record of an employee in daywise.Also record intime and outtime 
