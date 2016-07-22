@@ -1,0 +1,13 @@
+Add Time Sheet
+
+========================
+
+String employeeName
+String employeeId
+Date currentDate
+Time inTime
+Time outTime
+
+
+
+Add time record of an employee in daywise.Also record intime and outtime 
