@@ -10,4 +10,8 @@ Time outTime
 
 
 
-Add time record of an employee in daywise.Also record intime and out time
+Add time record of Add time record of an employee in daywise.Also record intime and out time...
+
+Employee name and id must be validan employee in daywise.Also record intime and out time
+
+hjgftyutreewes
