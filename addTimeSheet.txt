@@ -1,3 +1,9 @@
 Add Time Sheet
 
-================
+========================
+
+String employeeName
+String employeeId
+Date currentDate
+Time inTime
+Time outTime
